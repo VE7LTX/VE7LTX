@@ -1,7 +1,7 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to VE7LTX Diagonal Thinking LTD! 👋
 
 ## About Me 🚀
-Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast and developer on a mission to explore the incredible world of artificial intelligence. I'm passionate about leveraging AI to drive innovation and solve real-world problems.
+Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast and developer and founder of VE7LTX Diagonal Thinking LTD. I'm on a mission to explore the incredible world of artificial intelligence. I'm passionate about leveraging AI to drive innovation and solve real-world problems. I also have crazy ADHD and Love nerding out on Zoom Meetings with other tech enthuiasts!
 
 ## Interests 🌟
 - **Artificial Intelligence (AI)**: I'm captivated by the limitless possibilities of AI and its potential to transform industries. From natural language processing to computer vision, I enjoy diving deep into various AI domains and pushing the boundaries of what's possible. 🧠🤖
@@ -13,11 +13,11 @@ Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast a
 ## Tech Stack 💻
 Here are some of the technologies I work with:
 
-- **Programming Languages**: Fluent = Python : Learning = JavaScript, Java
-- **Frameworks and Libraries**: Fluent = Basic Python Libraries and Methods : Learning = TensorFlow, PyTorch, Keras, scikit-learn, Node.js, React.js
-- **Database Technologies**: I Understand how MySQL, PostgreSQL, and MongoDB work, but am currently working on my DB Language!
-- **Cloud Platforms**: Learning AWS and Google Cloud Platform
-- **Version Control**: Git, GitHub, Bit Bucket
+- **Programming Languages**: Python, JavaScript, Java
+- **Frameworks and Libraries**: TensorFlow, PyTorch, Keras, scikit-learn, Node.js, React.js
+- **Database Technologies**: MySQL, PostgreSQL, MongoDB
+- **Cloud Platforms**: AWS, Google Cloud Platform
+- **Version Control**: Git, GitHub
 
 ## Projects 🚀
 Here are some of the exciting projects I've been working on:
@@ -26,7 +26,7 @@ Here are some of the exciting projects I've been working on:
 
 2. **Personal AI Community**: 🌐 [Personal AI](https://community.personal.ai) is a thriving community dedicated to discussions and learning about personal AI technologies. Stay up-to-date with the latest advancements and connect with like-minded AI enthusiasts.
 
-3. **Ziggy's Training Hut**: 🎓 Ziggy's Training Hut is a comprehensive training program and resource hub for AI enthusiasts. Dive into the world of AI and enhance your skills with Ziggy's expert guidance.
+3. **Ziggy's Training Hut**: 🎓 [Ziggy's Training Hut](https://ziggy-training.personal.ai) is a comprehensive training program and resource hub for AI enthusiasts. Dive into the world of AI and enhance your skills with Ziggy's expert guidance.
 
 4. **EasyTrain.fun**: 🎮 [EasyTrain.fun](https://easytrain.fun) is a playful and interactive platform that gamifies the AI training process. Explore the fun side of AI while sharpening your skills and knowledge.
 
