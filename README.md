@@ -13,11 +13,11 @@ Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast a
 ## Tech Stack 💻
 Here are some of the technologies I work with:
 
-- **Programming Languages**: Python, JavaScript, Java
-- **Frameworks and Libraries**: TensorFlow, PyTorch, Keras, scikit-learn, Node.js, React.js
-- **Database Technologies**: MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms**: AWS, Google Cloud Platform
-- **Version Control**: Git, GitHub
+- **Programming Languages**: Fluent = Python : Learning = JavaScript, Java
+- **Frameworks and Libraries**: Fluent = Basic Python Libraries and Methods : Learning = TensorFlow, PyTorch, Keras, scikit-learn, Node.js, React.js
+- **Database Technologies**: I Understand how MySQL, PostgreSQL, and MongoDB work, but am currently working on my DB Language!
+- **Cloud Platforms**: Learning AWS and Google Cloud Platform
+- **Version Control**: Git, GitHub, Bit Bucket
 
 ## Projects 🚀
 Here are some of the exciting projects I've been working on:
