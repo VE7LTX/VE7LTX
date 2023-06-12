@@ -22,7 +22,7 @@ Here are some of the technologies I work with:
 ## Projects 🚀
 Here are some of the exciting projects I've been working on:
 
-1. **EasyTrain.AI**: 🚂 [EasyTrain.AI](https://easytrain.ai/) is a groundbreaking platform for corporate AI training. It offers a user-friendly interface, extensive data access, real-time data integration, and top-notch data security. Join the AI revolution and redefine your corporate processes!
+1. **EasyTrain.AI**: 🚂 [EasyTrain.AI](https://easytrain.ai/) is a groundbreaking platform for corporate AI training. NOW IN PUBLLIC ALPHA RELEASE ON GOOGLE PLAY!!! It offers a user-friendly interface, extensive data access, real-time data integration, and top-notch data security. Join the AI revolution and redefine your corporate processes!
 
 2. **Personal AI Community**: 🌐 [Personal AI](https://community.personal.ai) is a thriving community dedicated to discussions and learning about personal AI technologies. Stay up-to-date with the latest advancements and connect with like-minded AI enthusiasts.
 
