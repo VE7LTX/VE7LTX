@@ -18,6 +18,7 @@ Here are some of the technologies I work with:
 - **Database Technologies**: MySQL, PostgreSQL, MongoDB
 - **Cloud Platforms**: AWS, Google Cloud Platform
 - **Version Control**: Git, GitHub
+- **CRM Systems**: Zoho CRM, HubSpot
 
 ## Projects 🚀
 Here are some of the exciting projects I've been working on:
