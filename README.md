@@ -15,7 +15,7 @@ Here are some of the technologies I work with:
 
 - **Programming Languages**: Python, JavaScript, Java
 - **Frameworks and Libraries**: TensorFlow, PyTorch, Keras, scikit-learn, Node.js, React.js
-- **Database Technologies**: MySQL, PostgreSQL, MongoDB
+- **Database Technologies**: MySQL, PostgreSQL, MongoDB, SQLiteDB
 - **Cloud Platforms**: AWS, Google Cloud Platform
 - **Version Control**: Git, GitHub
 - **CRM Systems**: Zoho CRM, HubSpot
@@ -23,7 +23,7 @@ Here are some of the technologies I work with:
 ## Projects 🚀
 Here are some of the exciting projects I've been working on:
 
-1. **EasyTrain.AI**: 🚂 [EasyTrain.AI](https://easytrain.ai/) is a groundbreaking platform for corporate AI training. NOW IN PUBLLIC ALPHA RELEASE ON GOOGLE PLAY!!! It offers a user-friendly interface, extensive data access, real-time data integration, and top-notch data security. Join the AI revolution and redefine your corporate processes!
+1. **EasyTrain.AI**: 🚂 [EasyTrain.AI](https://easytrain.ai/) is a groundbreaking platform for corporate AI training. NOW ON GOOGLE PLAY!!! It offers a user-friendly interface, extensive data access, real-time data integration, and top-notch data security. Join the AI revolution and redefine your corporate processes!
 
 2. **Personal AI Community**: 🌐 [Personal AI](https://community.personal.ai) is a thriving community dedicated to discussions and learning about personal AI technologies. Stay up-to-date with the latest advancements and connect with like-minded AI enthusiasts.
 
@@ -39,5 +39,5 @@ Let's connect and explore the endless possibilities of AI together! Feel free to
 - Website: [DM @ Personal.ai](https://tinyurl.com/ve7ltx) 🌐
 - Ziggy's Lounge: [Join the Journey](https://tinyurl.com/ve7ltxlounge) 🌐
 - YouTube: [Matthew Schafer](https://www.youtube.com/@ve7ltx) 📺
-
+- Tiktok: [VE7LTX](https://github.com/VE7LTX) 
 Let's make AI dreams come true! ✨🚀
