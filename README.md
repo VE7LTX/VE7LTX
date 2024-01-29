@@ -20,16 +20,49 @@ Here are some of the technologies I work with:
 - **Version Control**: Git, GitHub
 - **CRM Systems**: Zoho CRM, HubSpot
 
-## Projects 🚀
-Here are some of the exciting projects I've been working on:
+# Specialized GPT Versions Directory
 
-1. **EasyTrain.AI**: 🚂 [EasyTrain.AI](https://easytrain.ai/) is a groundbreaking platform for corporate AI training. NOW ON GOOGLE PLAY!!! It offers a user-friendly interface, extensive data access, real-time data integration, and top-notch data security. Join the AI revolution and redefine your corporate processes!
+This directory provides an organized list of specialized GPT versions, each tailored for specific domains or technologies. Click on the links to access the respective GPT for more detailed information or assistance.
 
-2. **Personal AI Community**: 🌐 [Personal AI](https://community.personal.ai) is a thriving community dedicated to discussions and learning about personal AI technologies. Stay up-to-date with the latest advancements and connect with like-minded AI enthusiasts.
+- **[OpenCV Python Tutor](https://chat.openai.com/g/g-agZqzACna-opencv2-oracle)**  
+  _Integration of OpenCV with a Python Tutor._
 
-3. **Ziggy's Training Hut**: 🎓 [Ziggy's Training Hut](https://tinyurl.com/ve7ltxlounge) is a comprehensive training program and resource hub for AI enthusiasts. Dive into the world of AI and enhance your skills with Ziggy's expert guidance.
+- **[Python Coding Assistance](https://chat.openai.com/g/g-FULgnXsOx-pycode-helper)**  
+  _Help with Python programming challenges and questions._
 
-4. **EasyTrain.fun**: 🎮 [EasyTrain.fun](https://easytrain.fun) is a playful and interactive platform that gamifies the AI training process. Explore the fun side of AI while sharpening your skills and knowledge.
+- **[Recipe Card Conversion](https://chat.openai.com/g/g-Si9Wy8BEq-recipe-card-converter)**  
+  _Conversion of traditional recipe cards into digital formats._
+
+- **[Dark Theme Development](https://chat.openai.com/g/g-eQ2DzOHra-dark-theme-dev)**  
+  _Development and implementation of dark themes for applications._
+
+- **[PHP Namespaces](https://chat.openai.com/g/g-gDAYTNso6-php-namespace-expert)**  
+  _Management and best practices for PHP namespaces._
+
+- **[Mathematics of the Brain](https://chat.openai.com/g/g-HaeLqPG4S-math-of-the-brain-expert)**  
+  _Exploration of mathematics and models related to brain functions._
+
+- **[Python's Tkinter and SQLite](https://chat.openai.com/g/g-UEemgUHhW-python-tkinter-and-sqlite-expert)**  
+  _Expertise in Python's Tkinter GUI toolkit and SQLite database._
+
+- **[Web Scraping Tutor](https://chat.openai.com/g/g-QteUNyRoi-webscraping-tutor)**  
+  _Guidance and tutoring on web scraping techniques and tools._
+
+- **[Memory Weaver](https://chat.openai.com/g/g-5BOYs8SZT-memory-weaver)**  
+  _Creation of personalized stories from memories of deceased loved ones._
+
+- **[OpenAI Assistant Python Guide](https://chat.openai.com/g/g-qZeSSU3F0-oai-assistant-python-guide)**  
+  _Guidance for using OpenAI assistant endpoints with Python._
+
+- **[Sonic Composer](https://chat.openai.com/g/g-NKm0VDsIu-sonic-composer)**  
+  _Expertise in Sonic Pi for music programming and sound creation._
+
+- **[Markdown Mentor](https://chat.openai.com/g/g-RFsOcw34Q-markdown-mentor)**  
+  _Advanced Markdown formatting including custom CSS, tables, and lists._
+
+*For feedback or suggestions regarding this directory, please [contact us](mailto:ms@ve7ltx.cc).*
+
+*Note: This document is optimized for viewing on specific platforms.*
 
 ## Connect with Me 🌐
 Let's connect and explore the endless possibilities of AI together! Feel free to reach out to me on:
