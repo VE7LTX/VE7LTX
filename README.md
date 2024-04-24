@@ -1,7 +1,7 @@
 # Welcome to VE7LTX Diagonal Thinking LTD! 👋
 
 ## About Me 🚀
-Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast and developer and founder of VE7LTX Diagonal Thinking LTD. I'm on a mission to explore the incredible world of artificial intelligence. I'm passionate about leveraging AI to drive innovation and solve real-world problems. I also have crazy ADHD and Love nerding out on Zoom Meetings with other tech enthuiasts! https://app.personal.ai/affiliate?lmref=k52smw
+Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast and developer and founder of VE7LTX Diagonal Thinking LTD. I'm on a mission to explore the incredible world of artificial intelligence. I'm passionate about leveraging AI to drive innovation and solve real-world problems. I also have crazy ADHD and Love nerding out on Zoom Meetings with other tech enthuiasts!
 
 ## Interests 🌟
 - **Artificial Intelligence (AI)**: I'm captivated by the limitless possibilities of AI and its potential to transform industries. From natural language processing to computer vision, I enjoy diving deep into various AI domains and pushing the boundaries of what's possible. 🧠🤖
