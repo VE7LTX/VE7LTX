@@ -1,7 +1,9 @@
 # Welcome to VE7LTX Diagonal Thinking LTD! 👋
 
 ## About Me 🚀
-Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast and developer and founder of VE7LTX Diagonal Thinking LTD. I'm on a mission to explore the incredible world of artificial intelligence. I'm passionate about leveraging AI to drive innovation and solve real-world problems. I also have crazy ADHD and Love nerding out on Zoom Meetings with other tech enthuiasts!
+Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast and developer and founder of VE7LTX Diagonal Thinking LTD. and Radio Technology Specialist for Impact Radio Accessories!
+
+I'm on a mission to explore the human ability to learn and grow with the aid of the incredible world of artificial intelligence. I'm passionate about leveraging AI to drive innovation and solve real-world problems. I also have crazy ADHD and Love nerding out on Zoom Meetings with other tech enthuiasts!
 
 ## Interests 🌟
 - **Artificial Intelligence (AI)**: I'm captivated by the limitless possibilities of AI and its potential to transform industries. From natural language processing to computer vision, I enjoy diving deep into various AI domains and pushing the boundaries of what's possible. 🧠🤖
@@ -13,12 +15,12 @@ Hey there! I'm Matthew Schafer, but you can call me Matt. I'm an AI enthusiast a
 ## Tech Stack 💻
 Here are some of the technologies I work with:
 
-- **Programming Languages**: Python, JavaScript, Java
-- **Frameworks and Libraries**: TensorFlow, PyTorch, Keras, scikit-learn, Node.js, React.js
+- **Programming Languages**: Python, JavaScript, Java, HTML
+- **Frameworks and Libraries**: TensorFlow, PyTorch, scikit-learn
 - **Database Technologies**: MySQL, PostgreSQL, MongoDB, SQLiteDB
 - **Cloud Platforms**: AWS, Google Cloud Platform
-- **Version Control**: Git, GitHub
-- **CRM Systems**: Zoho CRM, HubSpot
+- **Version Control**: GitHub
+- **CRM Systems**: HubSpot
 
 # Specialized GPT Versions Directory
 
@@ -68,9 +70,5 @@ This directory provides an organized list of specialized GPT versions, each tail
 Let's connect and explore the endless possibilities of AI together! Feel free to reach out to me on:
 
 - Twitter: [@adhdsupernerd](https://twitter.com/adhdsupernerd) 🐦
-- Website: [VE7LTX.Tech](https://ve7ltx.tech) 🌐
-- Website: [DM @ Personal.ai](https://tinyurl.com/ve7ltx) 🌐
-- Ziggy's Lounge: [Join the Journey](https://tinyurl.com/ve7ltxlounge) 🌐
 - YouTube: [Matthew Schafer](https://www.youtube.com/@ve7ltx) 📺
-- Tiktok: [VE7LTX](https://github.com/VE7LTX) 
 Let's make AI dreams come true! ✨🚀
