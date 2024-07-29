@@ -18,11 +18,14 @@ I'm on a mission to explore the human ability to learn and grow with the aid of 
 Here are some of the technologies I work and play with:
 
 - **IDE Suites**: Cursor.io, Visual Studio, Android Studio
+  
 - **Programming Languages**: Python, Kotlin, JavaScript, Java, HTML, PHP
+
 - **AI Models**:
 -   Personal.ai
 -   Open AI
 -   Gemini
+
 - **Frameworks and Libraries**:
 -   Web frameworks: Django, Flask, FastAPI, Pyramid
 -   Data science and machine learning: NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch
@@ -30,9 +33,13 @@ Here are some of the technologies I work and play with:
 -   Web scraping: Beautiful Soup, Scrapy
 -   Networking: Requests
 -   Image processing: Pillow, OpenCV
+
 - **Database Technologies**: MySQL, PostgreSQL, MongoDB, SQLiteDB
+
 - **Cloud Platforms**: AWS, Google Cloud Platform
+
 - **Version Control**: GitHub
+
 - **CRM Systems**: HubSpot, Repair Shopr, Zoho
 
 # Specialized GPT Versions Directory
