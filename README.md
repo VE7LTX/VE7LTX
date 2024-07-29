@@ -21,18 +21,15 @@ Here are some of the technologies I work and play with:
   
 - **Programming Languages**: Python, Kotlin, JavaScript, Java, HTML, PHP
 
-- **AI Models**:
--   Personal.ai
--   Open AI
--   Gemini
+- **AI Models**: Personal.ai, Open AI, Gemini
 
 - **Frameworks and Libraries**:
--   Web frameworks: Django, Flask, FastAPI, Pyramid
--   Data science and machine learning: NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch
--   GUI development: Tkinter, Kotlin
--   Web scraping: Beautiful Soup, Scrapy
--   Networking: Requests
--   Image processing: Pillow, OpenCV
+- Web frameworks: Django, Flask, FastAPI, Pyramid
+- Data science and machine learning: NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch
+- GUI development: Tkinter, Kotlin
+- Web scraping: Beautiful Soup, Scrapy
+- Networking: Requests
+- Image processing: Pillow, OpenCV
 
 - **Database Technologies**: MySQL, PostgreSQL, MongoDB, SQLiteDB
 
