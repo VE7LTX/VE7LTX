@@ -1,4 +1,5 @@
-# Welcome to VE7LTX Diagonal Thinking LTD! 👋
+# Welcome to the Diagonal Thinking HQ! 👋
+**What is Digonal Thinking?** It is a growth focused way of life. Like a staircase extending upward to enlightenment!
 
 ## About Me 🚀
 Hey there! I'm Matthew Schafer, but you can call me Matt. 
