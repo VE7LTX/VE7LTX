@@ -107,8 +107,9 @@ This directory provides an organized list of specialized GPT versions, each tail
 ## Connect with Me 🌐
 Let's connect and explore the endless possibilities of AI together! Feel free to reach out to me on:
 
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/matthew-schafer/) 🔗
 - Twitter: [@adhdsupernerd](https://twitter.com/adhdsupernerd) 🐦
 - YouTube: [Matthew Schafer](https://www.youtube.com/@ve7ltx) 📺
-- TikTok: [ve7ltx](https://www.tiktok.com/@ve7ltx?is_from_webapp=1&sender_device=pc)
+- TikTok: [ve7ltx](https://www.tiktok.com/@ve7ltx?is_from_webapp=1&sender_device=pc) 🎵
   
 Together, we can make your tech dreams a reality! ✨🚀
