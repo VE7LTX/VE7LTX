@@ -1,5 +1,5 @@
 # Welcome to the Diagonal Thinking HQ! 👋
-Embracing Growth and Innovation with a Focus on Telecommunications!
+Embracing Growth and Innovation...
 
 ## About Me 🚀
 Hey there! I'm Matthew Schafer, commonly known as Matt. I wear many hats including Telecom Specialist, Red Seal Electrician, Sales Professional, AI Enthusiast, and founder of VE7LTX Diagonal Thinking LTD. Additionally, I serve as a Radio Technology Specialist for Impact Radio Accessories, where my passion for advanced communication systems and accessories thrives.
