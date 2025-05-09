@@ -6,9 +6,6 @@ Hey there! I'm Matthew Schafer, commonly known as Matt. I wear many hats includi
 
 My mission is to explore the potential of human growth and learning through the lens of artificial intelligence and cutting-edge radio technology. With a keen interest in leveraging AI to drive innovation, I am dedicated to solving real-world communication challenges. 
 
-## Documentation Repository
-For customers of Matt Schafer and Impact Radio Accessories, I maintain a repository of common information sheets, service manuals, and specifications at [Impactful-Info](https://github.com/VE7LTX/Impactful-Info).
-
 ## Interests 🌟
 - **Artificial Intelligence (AI):** I'm fascinated by the transformative power of AI across industries. From natural language processing to computer vision, I dive deep into various AI domains to push the boundaries of what's possible. 🧠🤖
 
