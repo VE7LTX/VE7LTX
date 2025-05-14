@@ -2,7 +2,7 @@
 Embracing Growth and Innovation...
 
 ## About Me 🚀
-Hey there! I'm Matthew Schafer, commonly known as Matt. I wear many hats including Telecom Specialist, Red Seal Electrician, Sales Professional, AI Enthusiast, and founder of VE7LTX Diagonal Thinking LTD. Additionally, I serve as a Radio Technology Specialist for Impact Radio Accessories, where my passion for advanced communication systems and accessories thrives.
+Hey there! I'm Matthew Schafer, commonly known as Matt. I wear many hats including Telecom Specialist, Red Seal Electrician, Sales Professional, AI Enthusiast, and founder of VE7LTX Diagonal Thinking LTD.
 
 My mission is to explore the potential of human growth and learning through the lens of artificial intelligence and cutting-edge radio technology. With a keen interest in leveraging AI to drive innovation, I am dedicated to solving real-world communication challenges. 
 
