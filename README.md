@@ -11,7 +11,7 @@ My mission is to explore the potential of human growth and learning through the 
 
 - **Personal AI Technologies:** Actively participating in the Personal AI community, I stay abreast of the latest advancements, exploring how personal AI can enhance our daily lives. 💡🌐
 
-- **Telecommunications:** As a Telecom Specialist at Impact Radio Accessories, I focus on enhancing communication systems through advanced radio accessories, ensuring our products meet the highest standards of functionality and reliability. 📡📲
+- **Telecommunications:** As a Telecom Specialist, I focus on enhancing communication systems, ensuring products meet the highest standards of functionality and reliability. 📡📲
 
 - **Open-Source Contributions:** Believing in the power of collaborative innovation, I contribute to open-source projects that align with my interests, fostering a shared environment of knowledge and progress. 🌐🤝
 
