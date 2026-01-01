@@ -2,7 +2,7 @@
 Embracing Growth and Innovation...
 
 ## About Me 🚀
-Hey there! I'm Matthew Schafer, commonly known as Matt. I wear many hats including Telecom Specialist, Red Seal Electrician, Sales Professional, AI Enthusiast, and founder of VE7LTX Diagonal Thinking LTD.
+Hey there! I'm Matthew Schafer, commonly known as Matt. I wear many hats including Telecom Specialist, Red Seal Electrician, Sales Professional, AI Enthusiast, and much more.
 
 My mission is to explore the potential of human growth and learning through the lens of artificial intelligence and cutting-edge radio technology. With a keen interest in leveraging AI to drive innovation, I am dedicated to solving real-world communication challenges. 
 
@@ -18,16 +18,16 @@ My mission is to explore the potential of human growth and learning through the 
 ## Tech Stack 💻
 Here are some of the technologies I work with:
 
-- **IDE Suites:** Cursor.io, Visual Studio, Android Studio
+- **IDE Suites:** Cursor.io, Visual Studio, Android Studio, Notepad++
 - **Programming Languages:** Python, Kotlin, JavaScript, Java, HTML, PHP
-- **AI Models:** Personal.ai, Open AI, Gemini
+- **AI Models:** Personal.ai, Open AI, Gemini, Ollama, And More!
 - **Frameworks and Libraries:** Django, Flask, FastAPI, Pyramid, NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch, Tkinter, Beautiful Soup, Scrapy
 - **Database Technologies:** MySQL, PostgreSQL, MongoDB, SQLiteDB
 - **Cloud Platforms:** AWS, Google Cloud Platform
 - **Version Control:** GitHub
-- **CRM Systems:** HubSpot, Repair Shopr, Zoho
+- **CRM Systems:** HubSpot, Repair Shopr, Zoho, CimpleChat, Evosus
 
-*For feedback or suggestions please [contact us](mailto:ms@ve7ltx.cc).*
+*For feedback or suggestions please [contact me](mailto:ms@ve7ltx.cc).*
 
 *Note: This document is optimized for viewing on specific platforms.*
 
