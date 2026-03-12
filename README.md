@@ -1,6 +1,3 @@
-# Welcome to the Diagonal Thinking HQ! 👋
-Embracing Growth and Innovation...
-
 ## About Me 🚀
 Hey there! I'm Matthew Schafer, commonly known as Matt. I wear many hats including Telecom Specialist, Red Seal Electrician, Sales Professional, AI Enthusiast, and much more.
 
