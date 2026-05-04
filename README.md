@@ -41,6 +41,7 @@ I am especially interested in using AI to improve how people organize knowledge,
 * Java
 * PowerShell
 * Bash
+* Markdown(MD)
 
 ### AI & Automation
 
@@ -75,7 +76,6 @@ I am especially interested in using AI to improve how people organize knowledge,
 * MySQL
 * PostgreSQL
 * MongoDB
-* Markdown(MD)
 
 ### Development Tools
 
