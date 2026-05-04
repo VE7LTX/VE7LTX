@@ -1,39 +1,145 @@
-## About Me 🚀
-Hey there! I'm Matthew Schafer, commonly known as Matt. I wear many hats including Telecom Specialist, Red Seal Electrician, Sales Professional, AI Enthusiast, and much more.
+# Matthew Schafer | VE7LTX
 
-My mission is to explore the potential of human growth and learning through the lens of artificial intelligence and cutting-edge radio technology. With a keen interest in leveraging AI to drive innovation, I am dedicated to solving real-world communication challenges. 
+Telecom specialist, Red Seal electrician, sales enablement operator, and AI systems builder working at the intersection of communications technology, automation, CRM workflows, and practical field operations.
 
-## Interests 🌟
-- **Artificial Intelligence (AI):** I'm fascinated by the transformative power of AI across industries. From natural language processing to computer vision, I dive deep into various AI domains to push the boundaries of what's possible. 🧠🤖
+I build and support systems that connect technical infrastructure with real-world business needs. My background spans RF communications, low-voltage electrical systems, CRM implementation, sales operations, automation workflows, and applied AI development.
 
-- **Personal AI Technologies:** Actively participating in the Personal AI community, I stay abreast of the latest advancements, exploring how personal AI can enhance our daily lives. 💡🌐
+## About Me
 
-- **Telecommunications:** As a Telecom Specialist, I focus on enhancing communication systems, ensuring products meet the highest standards of functionality and reliability. 📡📲
+I am Matthew Schafer, commonly known as Matt or in the Amature Radio Space and online as **VE7LTX**.
 
-- **Open-Source Contributions:** Believing in the power of collaborative innovation, I contribute to open-source projects that align with my interests, fostering a shared environment of knowledge and progress. 🌐🤝
+My work combines technical problem-solving with customer-facing execution. I have experience in telecommunications, radio systems, electrical infrastructure, CRM systems, AI tooling, sales enablement, and operational process design.
 
-## Tech Stack 💻
-Here are some of the technologies I work with:
+I am especially interested in using AI to improve how people organize knowledge, automate repetitive work, troubleshoot systems, and make better decisions from messy real-world information.
 
-- **IDE Suites:** Cursor.io, Visual Studio, Android Studio, Notepad++
-- **Programming Languages:** Python, Kotlin, JavaScript, Java, HTML, PHP
-- **AI Models:** Personal.ai, Open AI, Gemini, Ollama, And More!
-- **Frameworks and Libraries:** Django, Flask, FastAPI, Pyramid, NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch, Tkinter, Beautiful Soup, Scrapy
-- **Database Technologies:** MySQL, PostgreSQL, MongoDB, SQLiteDB
-- **Cloud Platforms:** AWS, Google Cloud Platform
-- **Version Control:** GitHub
-- **CRM Systems:** HubSpot, Repair Shopr, Zoho, CimpleChat, Evosus
+## Core Focus Areas
 
-*For feedback or suggestions please [contact me](mailto:ms@ve7ltx.cc).*
+* **AI Automation & Agent Systems**
+  Building practical AI-assisted workflows, local agents, prompt systems, structured memory, and automation tools.
 
-*Note: This document is optimized for viewing on specific platforms.*
+* **Telecommunications & RF Systems**
+  Working with radio systems, LMR accessories, frequency planning, technical troubleshooting, and communication hardware.
 
-## Connect with Me 🌐
-Let's connect and explore the endless possibilities of AI together! Feel free to reach out to me on:
+* **CRM & Sales Enablement**
+  Designing workflows, improving lead management, building better follow-up systems, and connecting sales activity with useful data.
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/matthew-schafer/) 🔗
-- Twitter: [My Twitter Stream is: @adhdsupernerd](https://twitter.com/adhdsupernerd) 🐦
-- YouTube: [I'm on YouTube @ve7ltx](https://www.youtube.com/@ve7ltx) 📺
-- TikTok: [@ve7ltx](https://www.tiktok.com/@ve7ltx?is_from_webapp=1&sender_device=pc) 🎵
-  
-Together, we can make your tech dreams a reality! ✨🚀
+* **Electrical & Low-Voltage Systems**
+  Applying field experience as a Red Seal electrician across automation, telecom, controls, and infrastructure projects.
+
+* **Knowledge Systems & Documentation**
+  Creating structured reference libraries, technical documentation, Markdown-based knowledge bases, and reusable process frameworks.
+
+## Technical Stack
+
+### Languages
+
+* Python
+* JavaScript
+* HTML / CSS
+* PHP
+* Kotlin
+* Java
+* PowerShell
+* Bash
+
+### AI & Automation
+
+* OpenAI / ChatGPT
+* Ollama
+* Gemini
+* Openclaw Ecosystem
+* Personal AI systems
+* Local LLM workflows
+* Prompt engineering
+* Agent orchestration
+* Vector memory concepts
+* Workflow automation with Zapier and Make
+
+### Python & Data Tools
+
+* Flask
+* FastAPI
+* Django
+* Tkinter
+* Pandas
+* NumPy
+* SciPy
+* Scikit-learn
+* Beautiful Soup
+* Scrapy
+* SQLite
+
+### Databases
+
+* SQLite
+* MySQL
+* PostgreSQL
+* MongoDB
+* Markdown(MD)
+
+### Development Tools
+
+* GitHub
+* Cursor
+* Visual Studio
+* Android Studio
+* Notepad++
+* Linux
+*   Fedora Server
+* Docker
+* NGINX
+
+### CRM & Business Systems
+
+* HubSpot
+* RepairShopr
+* Zoho
+* CimpleChat
+* Evosus
+* Opensouce Alternates
+
+### Field & Technical Systems
+
+* RF / LMR communications
+* Hytera radio systems
+* Kenwood radio systems
+* Low-voltage systems
+* Access control
+* CCTV
+* Control systems
+* Automation hardware
+* PLC Planning, Programming and Implementation
+
+## Current Interests
+
+* Building personal AI tools that act as practical assistants rather than novelty chatbots
+* Creating structured knowledge libraries for radio, electrical, telecom, and AI reference material
+* Improving CRM workflows for sales, customer support, and field operations
+* Exploring local-first AI systems using open-source models and self-hosted infrastructure
+* Developing automation systems that reduce manual admin work and improve operational visibility
+* Designing better documentation systems for technical users and non-technical customers
+
+## Projects & Direction
+
+My ongoing work is focused on practical AI and automation systems that help bridge the gap between technical complexity and usable workflows.
+
+I am especially interested in tools that can:
+
+* Capture and organize operational knowledge
+* Assist with technical troubleshooting
+* Improve follow-up and sales process consistency
+* Support field teams with better documentation
+* Connect CRM data, notes, files, and customer history
+* Run locally or semi-locally where privacy and ownership matter
+
+## Connect With Me
+
+* **Website:** [ve7ltx.cc](https://ve7ltx.cc)
+* **LinkedIn:** [Matthew Schafer](https://www.linkedin.com/in/matthew-schafer/)
+* **YouTube:** [@ve7ltx](https://www.youtube.com/@ve7ltx)
+* **TikTok:** [@ve7ltx](https://www.tiktok.com/@ve7ltx?is_from_webapp=1&sender_device=pc)
+* **Email:** [ms@ve7ltx.cc](mailto:ms@ve7ltx.cc)
+
+---
+
+> Practical systems. Clear documentation. Useful automation. Better communication.
